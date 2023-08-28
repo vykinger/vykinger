@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vykinger
-- 👀 I’m interested in building Websites
+- 👀 I’m interested in Sports and building Web Applications
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
