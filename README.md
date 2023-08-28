@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vykinger
 - 👀 I’m interested in building Websites
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
