@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vykinger
+- 👋 Hi, I’m Viktoria
 - 👀 I’m interested in Sports and building Web Applications
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on ...
